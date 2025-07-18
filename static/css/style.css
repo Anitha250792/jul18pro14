@@ -1,0 +1,9 @@
+.login-card {
+  max-width: 400px;
+  width: 100%;
+  border-radius: 12px;
+  background-color: lightgoldenrodyellow;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
